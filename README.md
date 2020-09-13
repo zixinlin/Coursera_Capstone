@@ -24,4 +24,4 @@ Although this article can write suggestions for people who want to open restaura
 ***
 This article briefly analyzes the location of restaurants in Manhattan, New York, United States by combining population density, geographic location and the distribution of restaurants, and suggests that restaurant owners or investors consider finding a restaurant location 2,500 meters north of downtown Manhattan.
 
-More information has been shown in here: https://github.com/zixinlin/Coursera_Capstone/blob/master/Untitled.ipynb
+More information has been shown in here: https://github.com/zixinlin/Coursera_Capstone/blob/master/Untitled.ipynb and  https://pdf.maitube.com/pdf/?e=agkK2J4zcWmdUa
